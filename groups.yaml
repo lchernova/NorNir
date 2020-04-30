@@ -1,0 +1,5 @@
+---
+   switches:
+      platform:cisco_ios
+   routers:
+      platform:cisco_ios
